@@ -1,2 +1,2 @@
 # Tackling-Data-Science
-In this Repo you'll find projects that aims to understand data science and it principles 
+In this Repo you'll find projects that aim to understand data science and its principles 
